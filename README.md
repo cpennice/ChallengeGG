@@ -25,8 +25,10 @@ npm run dev & php artisan serv
 Database: SQLite
 http://127.0.0.1:8000/
 Access: 
+
     User: User01@User01
     Pass: User01234
+    
     User: User02@User02
     Pass: User01234
 
