@@ -1,0 +1,28 @@
+.button {
+    display: inline-block;
+    padding: 0.5rem 1rem;
+    border: 2px solid #333;
+    border-radius: 0.5rem;
+    background-color: #fff;
+    color: #333;
+    font-size: 1.2rem;
+    font-weight: bold;
+    text-align: center;
+    text-decoration: none;
+    text-transform: uppercase;
+    box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15);
+    transform: translateZ(0);
+    transition: transform 0.25s ease-out;
+    margin: 1rem;
+}
+
+.button:hover {
+    transform: translateZ(0.5rem);
+}
+
+.flex {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
