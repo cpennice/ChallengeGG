@@ -7,29 +7,40 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-<p>##### SATART COMMANDS #####</p>
+<p>##### START COMMANDS #####</p>
 <p><br></p>
-<p>Prerequisites -&nbsp;</p>
-<p>PHP 8.2.4</p>
-<p>Composer version 2.6.3</p>
+<p>Prerequisites:</p>
+<p>- PHP 8.2.4</p>
+<p>- Composer version 2.6.3</p>
 <p><br></p>
-<p>- Startup: on root folder run</p>
+<p>To start the application, follow these steps:</p>
+<p><br></p>
+<p>1. In the root folder of the project, run the following commands:</p>
+<p><br></p>
+<p>```</p>
 <p>npm install</p>
-<p>composer update</p>
+<p>composer install</p>
+<p>```</p>
 <p><br></p>
-<p>- Run app with</p>
-<p>npm run dev &amp; php artisan serv</p>
+<p>2. Start the application with the following command:</p>
 <p><br></p>
-<p>Database: SQLite</p>
-<p><a data-fr-linked="true" href="http://127.0.0.1:8000/">http://127.0.0.1:8000/</a></p>
-<p>Access:&nbsp;</p>
+<p>```</p>
+<p>npm run dev &amp; php artisan serve</p>
+<p>```</p>
 <p><br></p>
-<p>&nbsp; &nbsp; User: User01@User01</p>
-<p>&nbsp; &nbsp; Pass: User01234</p>
-<p>&nbsp; &nbsp;&nbsp;</p>
-<p>&nbsp; &nbsp; User: User02@User02</p>
-<p>&nbsp; &nbsp; Pass: User01234</p>
+<p>##### DATABASE #####</p>
 <p><br></p>
+<p>- Database: SQLite</p>
+<p>- Application URL: [<a data-fr-linked="true" href="http://127.0.0.1:8000/">http://127.0.0.1:8000/</a>](<a data-fr-linked="true" href="http://127.0.0.1:8000/">http://127.0.0.1:8000/</a>)</p>
 <p><br></p>
-<p>contact: &nbsp; &nbsp;<a data-fr-linked="true" href="mailto:pennice.cr@gmail.com">pennice.cr@gmail.com</a></p>
-<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; +54 341 3695070 wsp</p>
+<p>Login credentials:</p>
+<p>- User: User01@User01</p>
+<p>- Password: User01234</p>
+<p><br></p>
+<p>- User: User02@User02</p>
+<p>- Password: User01234</p>
+<p><br></p>
+<p>##### CONTACT #####</p>
+<p><br></p>
+<p>- Email: [<a data-fr-linked="true" href="mailto:pennice.cr@gmail.com">pennice.cr@gmail.com</a>](mailto:<a data-fr-linked="true" href="mailto:pennice.cr@gmail.com">pennice.cr@gmail.com</a>)</p>
+<p>- Phone: +54 341 3695070 (WhatsApp)</p>
