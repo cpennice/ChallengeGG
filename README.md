@@ -42,5 +42,5 @@
 <p><br></p>
 <p>##### CONTACT #####</p>
 <p><br></p>
-<p>- Email: [<a data-fr-linked="true" href="mailto:pennice.cr@gmail.com">pennice.cr@gmail.com</a>](mailto:<a data-fr-linked="true" href="mailto:pennice.cr@gmail.com">pennice.cr@gmail.com</a>)</p>
+<p>- Email: [<a data-fr-linked="true" href="mailto:pennice.cr@gmail.com">pennice.cr@gmail.com</a>]
 <p>- Phone: +54 341 3695070 (WhatsApp)</p>
